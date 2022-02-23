@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cigzag&theme=dark" >
+</div>
+
 <!--
 **cigzag/cigzag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
