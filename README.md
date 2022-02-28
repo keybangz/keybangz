@@ -1,7 +1,7 @@
 ### Hi there, I'm cigzag 👋
 - First year **Software Engineering** undergraduate student at Techtorium NZIIT
 - C++/SourceMod Developer
-- I'm very big on functionality and practicality, fancy over the top GUI's aren't for me.
+- I'm very big on functionality and practicality, fancy over the top interfaces aren't for me.
 - A bit of a social butterfly, feel free to access me through Discord for a chat.
 
 ### Socials
