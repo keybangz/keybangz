@@ -20,4 +20,5 @@
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=a3265d)
 ![](https://img.shields.io/badge/Tools-C++-informational?style=flat&logo=GitHub&logoColor=white&color=a3265d)
 ![](https://img.shields.io/badge/Tools-CSharp-informational?style=flat&logo=GitHub&logoColor=white&color=a3265d)
+![](https://img.shields.io/badge/Tools-SourceMod-informational?style=flat&logo=GitHub&logoColor=white&color=a3265d)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=a3265d)
