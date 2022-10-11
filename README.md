@@ -13,3 +13,5 @@
 <p align="center">
 - A bit of a social butterfly, feel free to access me through Discord for a chat.
 </p>
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=a3265d)
