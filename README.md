@@ -3,7 +3,7 @@
 <h3 align="center">Hi there, I'm Wyatt 👋</h3>
 <p align="center">
 - Average C++ & C# Enjoyer.
+</p>
 - Learning Full-Stack Web Development at the moment.
 - I'm very big on functionality and practicality, fancy over the top interfaces aren't for me.
 - A bit of a social butterfly, feel free to access me through Discord for a chat.
-</p>
