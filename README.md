@@ -19,5 +19,5 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=a3265d)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=a3265d)
 ![](https://img.shields.io/badge/Tools-C++-informational?style=flat&logo=GitHub&logoColor=white&color=a3265d)
-![](https://img.shields.io/badge/Tools-C?style=flat&logo=GitHub&logoColor=white&color=a3265d)
+![](https://img.shields.io/badge/Tools-C#-informational?style=flat&logo=GitHub&logoColor=white&color=a3265d)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=a3265d)
