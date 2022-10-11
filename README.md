@@ -4,6 +4,12 @@
 <p align="center">
 - Average C++ & C# Enjoyer.
 </p>
+<p align="center">
 - Learning Full-Stack Web Development at the moment.
+</p>
+<p align="center">
 - I'm very big on functionality and practicality, fancy over the top interfaces aren't for me.
+</p>
+<p align="center">
 - A bit of a social butterfly, feel free to access me through Discord for a chat.
+</p>
