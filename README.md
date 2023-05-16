@@ -2,10 +2,7 @@
 
 <h3 align="center">Hi there, I'm Wyatt 👋</h3>
 <p align="center">
-- Average C++ & C# Enjoyer.
-</p>
-<p align="center">
-- A bit of a social butterfly, feel free to access me through Discord for a chat.
+I work with a range of different languages, frameworks & software to help satisfy my constant hunger for learning new information & putting my ideas to life.
 </p>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
