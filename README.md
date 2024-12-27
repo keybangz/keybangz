@@ -1,4 +1,4 @@
-<p align="center"><img width="400" src="https://github.com/user-attachments/assets/e4e102b4-f32f-420d-876e-f31562851a38" alt="Gif Header"></p>
+<p align="center"><img width="400" src="https://github.com/user-attachments/assets/fc363f38-a59f-47e0-a742-01952ab1a34a" alt="Gif Header"></p>
 
 <h3 align="center">Hi there, I'm Wyatt 👋</h3>
 <p align="center">
