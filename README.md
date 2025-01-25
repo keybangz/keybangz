@@ -16,3 +16,4 @@ I work with a range of different languages, frameworks & software to help satisf
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=30gfvr2xs0vmdbajet5zurk1m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
