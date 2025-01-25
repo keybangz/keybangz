@@ -5,6 +5,7 @@
 I work with a range of different languages, frameworks & software to help satisfy my constant hunger for learning new information & putting my ideas to life.
 </p>
 
+<p align="center">
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -15,7 +16,8 @@ I work with a range of different languages, frameworks & software to help satisf
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+</p>
 
-<div align="center">
+<p align="center">
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=30gfvr2xs0vmdbajet5zurk1m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
+</p>
