@@ -20,4 +20,5 @@ I work with a range of different languages, frameworks & software to help satisf
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=30gfvr2xs0vmdbajet5zurk1m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#8073f5', 'O5O81BLNPB');kofiwidget2.draw();</script> 
 </p>
