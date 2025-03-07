@@ -20,6 +20,5 @@ I work with a range of different languages, frameworks & software to help satisf
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=30gfvr2xs0vmdbajet5zurk1m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O81BLNPB)
 </p>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O81BLNPB)
