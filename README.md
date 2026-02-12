@@ -1,6 +1,6 @@
 <p align="center"><img width="400" src="https://github.com/user-attachments/assets/fc363f38-a59f-47e0-a742-01952ab1a34a" alt="Jinx Walking Gif Banner"></p>
 
-<h3 align="center">"I sip on integrity from a flask, reflect on the last time I fell from hell's grasp."</h3>
+<h3 align="center">"With heart liquidated I sip on integrity from a flask, reflect on the last time I fell from hell's grasp."</h3>
 <p align="center">
 I tinker, I create, I break and I repeat. My deep love for learning things via trial & error is a thirst that will never be fully quenched. 
 </p>
